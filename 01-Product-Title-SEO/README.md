@@ -1,22 +1,69 @@
 # 01 · Product Title and SEO Optimisation
 
-## Prompt Text
+**Current version:** v1.0
+
+**Status:** Tested and Approved
+
+**Last updated:** March 2026
+
+## Prompt Text (v1.0 - Current)
 
 > Act as an e-commerce SEO specialist for the ShopGO e-commerce platform. Generate a concise, clear, and engaging product title for the following product details. The title must include the most important keywords, such as product type, brand, and key feature, and be optimised for search visibility while remaining easy to read. Limit the title to 8–12 words and avoid unnecessary or repetitive terms.  
 >
-> **Product details:** Fitness tracker watch, Electronics, 18 days battery, Lightweight, Xiaomi
+> **Product details:** [product type, brand, and key feature] 
 
-## Intended Workflow or Task
+# Intended Workflow or Task
 
-This prompt is used during product listing on the ShopGO e-commerce platform to generate clear and SEO-optimised product titles that improve discoverability and customer readability.
+This prompt is part of the **product listing and optimisation workflow** in the ShopGO e-commerce platform.
 
-## Problem Being Solved
+- **Trigger:** New product is added or existing product listing is updated  
+- **Actor:** AI generates product title; product manager or content team reviews output  
+- **Timing:** During product upload or catalogue update process  
+- **Next step:** Optimised product title is published → product becomes searchable and visible to customers  
 
-Many e-commerce listings use titles that are too long, unclear, or poorly structured. This can make products harder for customers to understand at a glance and may reduce search visibility, click-through rates, and potential sales.
+Product data entered → [SEO title prompt runs] → Optimised title generated → Reviewed → Published on platform
 
-## Automation Potential
+---
 
-**High.** This task is highly suitable for automation because product information is already available in structured form, such as brand, category, and features. The prompt can consistently generate optimised titles at scale, saving time and improving listing quality.
+# Problem Being Solved
+
+Product titles are a critical factor in both **search visibility and customer engagement**. Poorly written titles can reduce click-through rates and negatively impact sales.
+
+In large e-commerce platforms like ShopGO, this leads to:
+- Low product discoverability in search results  
+- Customers skipping listings due to unclear or overly complex titles  
+- Inconsistent naming conventions across products  
+- Reduced conversion rates  
+
+**Pain points addressed:**
+- Time-consuming manual title creation for large product catalogues  
+- Lack of standardisation in product naming  
+- Overly long or keyword-stuffed titles that reduce readability  
+- Missed SEO opportunities due to poor keyword usage  
+
+---
+
+# Automation Potential
+
+**Level: Very High**
+
+| Dimension                | Assessment |
+|------------------------|-----------|
+| Repetitiveness         | Very high; required for every product listing |
+| Data availability      | High; product details available during upload |
+| Human judgement needed | Low; mainly for quality and brand alignment checks |
+| Integration possibility| Can be integrated into product upload system |
+| Estimated impact       | Improved search visibility, higher click-through rates, faster listing creation |
+
+---
+
+**Human-in-the-loop role:**  
+Content or product managers review generated titles to ensure brand alignment, accuracy of product details, and compliance with platform guidelines before publishing.
+
+---
+
+**Scaling note:**  
+ShopGO may manage thousands of products across multiple categories. Automating title generation enables consistent, high-quality listings at scale, significantly reducing manual workload and improving overall catalogue performance.
 
 ## Risks and Limitations
 
