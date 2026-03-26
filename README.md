@@ -1,9 +1,13 @@
-# 📚 Prompt Library — ShopGO E-commerce Workflow Automation
+# Prompt Library — ShopGO E-commerce Workflow Automation
 
 **Assessment 1 | Generative AI for Business**  
+
 **Student:** Shama Kabir 
-**Business Field:** E-commerce & Online Retail Operations  
+
+**Business Field:** E-commerce & Online Retail Operations 
+
 **Model tested on:** La Trobe University Prompt Lab | GPT-4.1 Mini
+
 **Last updated:** March 2026  
 
 ---
