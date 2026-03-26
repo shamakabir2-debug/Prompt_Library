@@ -1,6 +1,12 @@
 # 04 · Refund or Return Request Evaluation
 
-## Prompt Text
+**Current version:** 4.0
+
+**Status:** Tested and approved
+
+**Last updated:** March 2026
+
+## Prompt Text (v4.0 - Current)
 
 > Act as a returns and refund decision-support system for the ShopGO e-commerce platform. Evaluate the following customer request against the company’s return and refund policy.
 >
@@ -11,21 +17,61 @@
 >
 > If the information is incomplete or unclear, classify the request as **"Review Required"**.
 >
-> **Customer request:** [Insert request details]  
-> **Return policy:** [Insert company policy rules]
+> **Customer request:** [Request details]  
+> **Return policy:** [Company policy rules]
 
-## Intended Workflow or Task
+# Intended Workflow or Task
 
-This prompt is used when customers submit refund or return requests. It supports automated evaluation and assists decision-making before final approval by the support team.
+This prompt is part of the **returns and refund processing workflow** in the ShopGO e-commerce platform.
 
-## Problem Being Solved
+- **Trigger:** Customer submits a refund or return request  
+- **Actor:** AI evaluates request; support system processes outcome  
+- **Timing:** Immediately after request submission  
+- **Next step:** Decision is generated → action taken (refund issued, return initiated, or case escalated)
 
-Manual evaluation of refund and return requests is time-consuming and can lead to delays in response. This may result in customer dissatisfaction and increased workload for support teams.
+Customer submits request → [Refund evaluation prompt runs] → Decision generated → Action executed → Case resolved or escalated
 
-## Automation Potential
+---
 
-**High.**  
-This process can be largely automated using predefined company policy rules. Human intervention is required only for complex or ambiguous cases.
+# Problem Being Solved
+
+Refund and return requests are often reviewed manually, leading to inconsistent decisions and delays.
+
+In a large e-commerce platform like ShopGO, this results in:
+- Slow response times  
+- Inconsistent application of return policies  
+- Increased operational costs  
+- Customer dissatisfaction due to delayed or unfair decisions  
+
+**Pain points addressed:**
+- Manual interpretation of return policies  
+- Lack of consistency across different support agents  
+- Difficulty handling incomplete or unclear requests  
+- Inefficient processing of high request volumes  
+
+---
+
+# Automation Potential
+
+**Level: High**
+
+| Dimension                | Assessment |
+|------------------------|-----------|
+| Repetitiveness         | High; frequent return/refund requests |
+| Data availability      | High; request details and policy rules available |
+| Human judgement needed | Medium; required for complex cases and disputes |
+| Integration possibility| Can be integrated into returns management system |
+| Estimated impact       | Faster processing, improved consistency, reduced workload |
+
+---
+
+**Human-in-the-loop role:**  
+Support agents review cases classified as “Review Required” and handle exceptions, disputes, or cases requiring subjective judgement.
+
+---
+
+**Scaling note:**  
+ShopGO processes large volumes of return and refund requests daily. Automating evaluation enables consistent, policy-based decisions at scale while reducing manual workload and improving customer experience.
 
 ## Risks and Limitations
 
