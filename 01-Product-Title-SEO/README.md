@@ -68,3 +68,17 @@ ShopGO may manage thousands of products across multiple categories. Automating t
 ## Risks and Limitations
 
 AI-generated titles may become repetitive across similar products and may sometimes overemphasise keywords at the expense of natural readability. There is also a possibility of omitting an important feature or using wording that does not fully match the brand’s preferred style, so human review may still be required.
+
+## Key Insights
+
+- The prompt enforces clear constraints (8–12 words, keyword prioritisation), resulting in concise and readable product titles  
+- Inclusion of key SEO elements (product type, brand, and feature) improves search visibility and discoverability  
+- Structured guidance reduces keyword stuffing and ensures balance between optimisation and readability  
+- Consistent title generation supports standardisation across large product catalogues  
+- The prompt enables scalable content creation, significantly reducing manual effort in listing optimisation  
+
+---
+
+## Conclusion
+
+This prompt demonstrates how structured constraints and keyword prioritisation can improve both search visibility and customer engagement. By generating concise, consistent, and SEO-friendly product titles, the system enhances product discoverability and click-through rates. As a result, it supports scalable catalogue management and improves overall e-commerce performance within the ShopGO platform.
