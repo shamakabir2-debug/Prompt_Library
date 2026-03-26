@@ -3,7 +3,7 @@
 **Assessment 1 | Generative AI for Business**  
 **Student:** Shama Kabir 
 **Business Field:** E-commerce & Online Retail Operations  
-**Model tested on:** La Trobe University Prompt Lab| GPT-4.1 Mini
+**Model tested on:** La Trobe University Prompt Lab | GPT-4.1 Mini
 **Last updated:** March 2026  
 
 ---
@@ -80,7 +80,6 @@ All prompts were iteratively refined based on testing and evaluation.
 |--------|---------|----------------|
 | P02 Recommendation | v2.0 → v2.1 | Added fallback logic for first-time users |
 | P03 Classification | v3.0 → v3.1 | Introduced predefined categories + consistency |
-| P05 Fraud Detection | v5.0 → v5.1 | Added structured risk indicators + actions |
 | P06 Forecasting | v6.0 → v6.1 | Added drivers and confidence handling |
 | P10 Marketing Email | v10.0 → v10.1 | Added structure (subject, body) and tone |
 
