@@ -77,4 +77,18 @@ ShopGO processes large volumes of return and refund requests daily. Automating e
 
 - AI may misinterpret situations and apply incorrect policy rules  
 - Incorrect approvals may result in financial loss  
-- Unusual or edge-case scenarios may not fit predefined rules and require human judgement  
+- Unusual or edge-case scenarios may not fit predefined rules and require human judgement
+
+## Key Insights
+
+- The prompt applies structured decision logic (Approve / Reject / Review), ensuring consistent evaluation of refund requests  
+- Referencing return policy rules improves transparency and reduces subjective decision-making  
+- Recommended actions align directly with operational workflows, enabling efficient case handling  
+- The “Review Required” fallback ensures incomplete or unclear cases are safely escalated rather than incorrectly processed  
+- The prompt reduces variability across support agents, improving fairness and consistency in customer service  
+
+---
+
+## Conclusion
+
+This prompt highlights the importance of policy-driven decision-making in refund and return processes. By combining structured outputs with clear policy references and fallback handling, the system enables consistent, scalable, and efficient evaluation of customer requests. This improves operational efficiency, reduces errors, and enhances customer trust in the ShopGO platform.
