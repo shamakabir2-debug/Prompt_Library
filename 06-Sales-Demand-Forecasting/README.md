@@ -89,7 +89,7 @@ ShopGO manages a large and dynamic product catalogue. Automating demand forecast
 
 ## v6.0 — Initial draft
 
-**Date:** 19 March 2025  
+**Date:** 19 March 2026  
 
 **Prompt:**  
 Act as a sales analyst for the ShopGO e-commerce platform. Analyse the sales data and predict future demand. Provide a forecast and explain the results.
@@ -109,7 +109,7 @@ Need structured outputs, clearer inputs, and actionable recommendations to suppo
 
 ## v6.1 — Added structure, drivers, and confidence handling (Current)
 
-**Date:** 24 March 2025  
+**Date:** 24 March 2026  
 
 **Change:**  
 Introduced structured outputs, included demand drivers (seasonality, trends), and added “Low Confidence” handling for insufficient data.
@@ -142,7 +142,7 @@ Structured outputs and confidence indicators are essential for making forecasts 
 
 # A/B Test Results
 
-**Test date:** 26 March 2025  
+**Test date:** 26 March 2026  
 **Evaluators:** 3 e-commerce operations analysts 
 
 | Criteria                          | v1.0 Score | v1.1 Score |
