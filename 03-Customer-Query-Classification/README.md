@@ -1,5 +1,9 @@
 # 03 · Customer Query Classification
+**Current version:** 
 
+**Status:** 
+
+**Last updated:** March 2026
 ## Prompt Text
 
 > You are a customer support classification system for the ShopGO e-commerce platform. Analyse the following customer query and classify it into one of the predefined categories:
