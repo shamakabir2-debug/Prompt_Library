@@ -66,6 +66,8 @@ In a large e-commerce platform like ShopGO, this leads to:
 | Human judgement needed | Low; only for complex or unclear cases |
 | Integration possibility| Can be integrated into helpdesk |
 | Estimated impact       | Faster response time, improved routing accuracy, reduced workload |
+| Time estimate          | Manual classification: 1–2 minutes per query, with AI: 2–5 seconds, time saved per query: 1–2 minutes, efficiency improvement: 90–95% (approx.) |
+
 
 ---
 
