@@ -26,8 +26,6 @@ Each prompt follows a consistent structure:
 
 ---
 
-# Folder Structure
-
 # Library Summary Table
 
 | ID  | Prompt Name                        | Workflow              | Automation Level | Risk Level | Status |
