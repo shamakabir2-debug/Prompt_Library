@@ -62,6 +62,8 @@ In a large e-commerce platform like ShopGO, this results in:
 | Human judgement needed | Medium; required for complex cases and disputes |
 | Integration possibility| Can be integrated into returns management system |
 | Estimated impact       | Faster processing, improved consistency, reduced workload |
+| Time estimate          | 	Manual evaluation: 5–10 minutes per request, With AI: 30–60 seconds,time saved per case: 4–9 minutes, efficiency improvement: 80–90% (approx.) |
+
 
 ---
 
