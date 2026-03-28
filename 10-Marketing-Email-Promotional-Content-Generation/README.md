@@ -66,7 +66,7 @@ In ShopGO, this leads to:
 | Integration possibility| Can be integrated into email marketing platforms |
 | Estimated impact       | Faster campaign execution, improved engagement, reduced workload |
 | Time estimate          | Manual creation: 30–60 minutes per email (research + writing + editing), with AI: 3–5 minutes
-(generate + quick review), time saved per email: 25–55 minutes, efficiency improvement: 85–95% (approx.)
+(generate + quick review), time saved per email: 25–55 minutes, efficiency improvement: 85–95% (approx.) |
 
 ---
 
