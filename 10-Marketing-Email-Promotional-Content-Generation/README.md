@@ -23,18 +23,60 @@
 > Key benefits: [Value propositions]  
 > Tone/brand style: [Brand guidelines]
 
-## Intended Workflow or Task
+# Intended Workflow or Task
 
-This prompt is used to create promotional emails for targeted marketing campaigns, helping ShopGO engage customers, increase conversions, and drive sales.
+This prompt is part of the **marketing campaign execution and customer engagement workflow** in the ShopGO e-commerce platform.
 
-## Problem Being Solved
+- **Trigger:** Marketing campaign is created or scheduled  
+- **Actor:** AI generates email; marketing team reviews output  
+- **Timing:** Before campaign launch  
+- **Next step:** Email content finalised → campaign sent to customers  
 
-Creating marketing content manually is time-consuming and may lead to inconsistent messaging across campaigns. Businesses often struggle to personalise content effectively, reducing the impact of promotions and overall customer engagement.
+Campaign planned → [Email prompt runs] → Email generated → Reviewed → Sent to target audience
 
-## Automation Potential
+---
 
-**Very High.**  
-Promotional content generation can be automated across different customer segments and campaigns. AI enables rapid creation of personalised emails, improving marketing efficiency while reducing manual effort. Human review is recommended to ensure brand alignment and compliance.
+# Problem Being Solved
+
+Creating promotional emails manually is time-consuming and often leads to inconsistent messaging.
+
+In ShopGO, this leads to:
+- Delays in campaign execution  
+- Inconsistent tone across communications  
+- Reduced engagement due to unclear messaging  
+- High manual effort in content creation  
+
+**Pain points addressed:**
+- Lack of standardisation in marketing content  
+- Difficulty personalising emails at scale  
+- Inefficient campaign preparation  
+- Risk of poor-quality or ineffective messaging  
+
+---
+
+# Automation Potential
+
+**Level: Very High**
+
+| Dimension                | Assessment |
+|------------------------|-----------|
+| Repetitiveness         | Very high; required for every campaign |
+| Data availability      | High; campaign inputs readily available |
+| Human judgement needed | Low; mainly for final approval |
+| Integration possibility| Can be integrated into email marketing platforms |
+| Estimated impact       | Faster campaign execution, improved engagement, reduced workload |
+| Time estimate          | Manual creation: 30–60 minutes per email (research + writing + editing), with AI: 3–5 minutes
+(generate + quick review), time saved per email: 25–55 minutes, efficiency improvement: 85–95% (approx.)
+
+---
+
+**Human-in-the-loop role:**  
+Marketing teams review generated emails to ensure brand alignment and approve content before sending.
+
+---
+
+**Scaling note:**  
+ShopGO runs multiple campaigns across different customer segments. Automating email generation enables rapid, consistent, and personalised communication at scale, improving marketing efficiency and reach.
 
 ## Risks and Limitations
 
