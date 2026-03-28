@@ -54,6 +54,7 @@ In large e-commerce platforms like ShopGO, this leads to:
 | Human judgement needed | Low; mainly for quality and brand alignment checks |
 | Integration possibility| Can be integrated into product upload system |
 | Estimated impact       | Improved search visibility, higher click-through rates, faster listing creation |
+| Time saved             | Manual creation: 2–4 minutes per product; With AI: 10–20 seconds per product, time saving per product: 2–3 minutes, efficiency improvement: 70–85% (approx.) |
 
 ---
 
